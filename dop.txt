@@ -1,7 +1,0 @@
-
-**//add index file and home controller
-rails g controller home index      
-
-**//root routes
-//get 'home/index'   //coment way
-root 'home#index'    //add root way to home controller and index erb file
